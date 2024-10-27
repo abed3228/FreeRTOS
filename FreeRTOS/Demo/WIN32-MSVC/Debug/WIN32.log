@@ -1,1 +1,26 @@
-﻿
+﻿  trcKernelPort.c
+  trcSnapshotRecorder.c
+C:\Users\devop\OneDrive\Desktop\StudentApp\FreeRTOS\FreeRTOS-Plus\Source\FreeRTOS-Plus-Trace\trcSnapshotRecorder.c(1488,59): warning C4244: '=': conversion from 'TraceStringHandle_t' to 'uint16_t', possible loss of data
+C:\Users\devop\OneDrive\Desktop\StudentApp\FreeRTOS\FreeRTOS-Plus\Source\FreeRTOS-Plus-Trace\trcSnapshotRecorder.c(1607,46): warning C4244: '=': conversion from 'TraceStringHandle_t' to 'uint16_t', possible loss of data
+C:\Users\devop\OneDrive\Desktop\StudentApp\FreeRTOS\FreeRTOS-Plus\Source\FreeRTOS-Plus-Trace\trcSnapshotRecorder.c(2312,25): warning C4244: '=': conversion from 'TraceStringHandle_t' to 'uint16_t', possible loss of data
+C:\Users\devop\OneDrive\Desktop\StudentApp\FreeRTOS\FreeRTOS-Plus\Source\FreeRTOS-Plus-Trace\trcSnapshotRecorder.c(2606,75): warning C4244: '=': conversion from 'TraceStringHandle_t' to 'uint16_t', possible loss of data
+C:\Users\devop\OneDrive\Desktop\StudentApp\FreeRTOS\FreeRTOS-Plus\Source\FreeRTOS-Plus-Trace\trcSnapshotRecorder.c(2609,76): warning C4244: '=': conversion from 'TraceStringHandle_t' to 'uint16_t', possible loss of data
+  event_groups.c
+  heap_5.c
+  stream_buffer.c
+  timers.c
+  main.c
+C:\Users\devop\OneDrive\Desktop\StudentApp\FreeRTOS\FreeRTOS\Demo\WIN32-MSVC\main.c(479,14): warning C4245: 'return': conversion from 'int' to 'DWORD', signed/unsigned mismatch
+  list.c
+  port.c
+  queue.c
+  tasks.c
+  main_project.c
+C:\Users\devop\OneDrive\Desktop\StudentApp\FreeRTOS\FreeRTOS\Demo\WIN32-MSVC\main_project.c(59,25): warning C4100: 'pvParameters': unreferenced formal parameter
+C:\Users\devop\OneDrive\Desktop\StudentApp\FreeRTOS\FreeRTOS\Demo\WIN32-MSVC\main_project.c(79,30): warning C4100: 'pvParameters': unreferenced formal parameter
+C:\Users\devop\OneDrive\Desktop\StudentApp\FreeRTOS\FreeRTOS\Demo\WIN32-MSVC\main_project.c(94,35): warning C4100: 'pvParameters': unreferenced formal parameter
+C:\Users\devop\OneDrive\Desktop\StudentApp\FreeRTOS\FreeRTOS\Demo\WIN32-MSVC\main_project.c(109,31): warning C4100: 'pvParameters': unreferenced formal parameter
+  Run-time-stats-utils.c
+  Generating Code...
+C:\Users\devop\OneDrive\Desktop\StudentApp\FreeRTOS\FreeRTOS\Demo\WIN32-MSVC\main.c(479): warning C4702: unreachable code
+  WIN32.vcxproj -> C:\Users\devop\OneDrive\Desktop\StudentApp\FreeRTOS\FreeRTOS\Demo\WIN32-MSVC\Debug\RTOSDemo.exe
