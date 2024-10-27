@@ -2,11 +2,6 @@
 #include "FreeRTOS.h"
 #include "task.h"
 #include "semphr.h"
-
-#include <stdio.h>
-#include "FreeRTOS.h"
-#include "task.h"
-#include "semphr.h"
 #include "queue.h"
 
 // Definitions
@@ -121,4 +116,3 @@ void vUserInterfaceTask(void *pvParameters)
         }
     }
 }
-
