@@ -1,10 +1,4 @@
 #include <stdio.h>
-#include <unistd.h>
-#include "FreeRTOS.h"
-#include "task.h"
-#include "semphr.h"
-
-#include <stdio.h>
 #include "FreeRTOS.h"
 #include "task.h"
 #include "queue.h"

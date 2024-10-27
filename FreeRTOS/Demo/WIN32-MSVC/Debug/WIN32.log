@@ -1,1 +1,4 @@
-﻿
+﻿  main_project.c
+C:\Users\devop\OneDrive\Desktop\StudentApp\FreeRTOS\FreeRTOS\Demo\WIN32-MSVC\main_project.c(44,23): warning C4100: 'pvParameters': unreferenced formal parameter
+C:\Users\devop\OneDrive\Desktop\StudentApp\FreeRTOS\FreeRTOS\Demo\WIN32-MSVC\main_project.c(66,29): warning C4100: 'pvParameters': unreferenced formal parameter
+  WIN32.vcxproj -> C:\Users\devop\OneDrive\Desktop\StudentApp\FreeRTOS\FreeRTOS\Demo\WIN32-MSVC\Debug\RTOSDemo.exe
