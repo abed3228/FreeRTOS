@@ -1,3 +1,4 @@
+#include "hello.h"
 #include "init.h"
 
 int main(void) {
@@ -6,8 +7,8 @@ int main(void) {
   init_main();
 
   while (1) {
-    printf("Hello World\n");
-    sleep(1);
+    hello();
   }
+
   return 0;
 }
